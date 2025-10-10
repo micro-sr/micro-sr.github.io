@@ -7,7 +7,7 @@ header:
     overlay_filter: "0.5"
 ---
 
-Poor mental health particularly affects children in vulnerable groups. For example, children with developmental language disorder (DLD) and children who have experienced forced migration, e.g., refugees, are more at risk of poor mental health outcomes in comparison with their peers. 
+### Poor mental health particularly affects children in vulnerable groups. For example, children with developmental language disorder (DLD) and children who have experienced forced migration, e.g., refugees, are more at risk of poor mental health outcomes in comparison with their peers. 
 
 However, there is a lack of research on children’s wellbeing and its relation with linguistic abilities and the ability to successfully engage in social interactions, which are typical challenges in these vulnerable groups. Moreover, traditional methods to measure wellbeing and mental health in children, such as self-report questionnaires, have several limitations, e.g. they require reading, comprehension, and concentration skills that are particularly challenging especially for children with DLD and refugee
 children.

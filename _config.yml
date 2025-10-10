@@ -19,7 +19,7 @@ description: "The website of MICRO Project"
 minimal_mistakes_skin: default
 url: https://micro-sr.github.io/
 repository: micro-sr/micro-sr.github.io
-
+logo: "/assets/images/logo2.png"
 
 # Build settings
 markdown: kramdown
