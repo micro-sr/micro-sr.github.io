@@ -17,8 +17,8 @@ title: "MICRO"
 name: "MICRO Project"
 description: "The website of MICRO Project"
 minimal_mistakes_skin: default
-url: https://micro.github.io/
-repository: MICRO-website/micro.github.io
+url: https://micro-sr.github.io/
+repository: micro-sr/micro-sr.github.io
 
 
 # Build settings
