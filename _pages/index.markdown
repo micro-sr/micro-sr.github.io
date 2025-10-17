@@ -17,6 +17,17 @@ The MICRO consortium brings together researchers from the following institutions
 * Bielefeld University, Germany
 * University of Cambridge, United Kingdom
 
+**Project coordinator:** Ginevra Castellano, Uppsala University
+
+<h3 style="color:#E58668;">ASSOCIATE PARTNERS</h3>
+
+The project is also supported by associate partners from academic and non-academic institutions:
+* E-DLD (Engage with Developmental Language Disorder), United Kingdom
+* Barnens Rätt i Samhället (BRIS), Sweden
+* UNESCO, France
+* Place2Be, United Kingdom
+* Kaleido, Switzerland
+* WOMHER Centre - Women’s Mental Health during the Reproductive Lifespan, Sweden
 
 <h3 style="color:#E58668;">FUNDING ORGANSATIONS</h3>
 
