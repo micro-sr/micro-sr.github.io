@@ -21,7 +21,7 @@ The MICRO consortium brings together researchers from the following institutions
 
 <h3 style="color:#E58668;">ASSOCIATE PARTNERS</h3>
 
-The project is also supported by associate partners from academic and non-academic institutions:
+The project is also supported by associate partners from academic and non-academic organizations:
 * E-DLD (Engage with Developmental Language Disorder), United Kingdom
 * Barnens Rätt i Samhället (BRIS), Sweden
 * UNESCO, France
