@@ -28,6 +28,7 @@ The project is also supported by associate partners from academic and non-academ
 * Place2Be, United Kingdom
 * Kaleido, Switzerland
 * WOMHER Centre - Women’s Mental Health during the Reproductive Lifespan, Sweden
+* Berkman Klein Centre, Harvard University, USA
 
 <h3 style="color:#E58668;">FUNDING ORGANSATIONS</h3>
 
