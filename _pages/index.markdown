@@ -32,11 +32,10 @@ The project is also supported by associate partners from academic and non-academ
 
 <h3 style="color:#E58668;">FUNDING ORGANSATIONS</h3>
 
-Project MICRO is supported by FORTE, the Swedish Research Council for Health, Working Life and Welfare; SNSF, the Swiss National Science Foundation; DFG, the German Research Foundation; and ESRC, the United Kingdom Research and Innovation–Economic and Social Research Council, under the *Enhancing Well-Being for the Future* call by [**CHANSE**](https://chanse.org) and [**NORFACE**](https://norface.net).
-
-
+Project MICRO is supported by FORTE, the Swedish Research Council for Health, Working Life and Welfare; SNSF, the Swiss National Science Foundation; DFG, the German Research Foundation; and ESRC, the United Kingdom Research and Innovation–Economic and Social Research Council under [CHANSE ERA-NET Co-fund programme](https://chanse.org), which has received funding from the European Union’s Horizon 2020 Research and Innovation Programme, under Grant Agreement no 101004509.
 
 <p align="right">
-  <img width="400" src="/assets/images/chanse.png" />
-  <img width="220" src="/assets/images/landscape_new+norface_nov2018.png" />
+  <img width="300" src="/assets/images/ec-logo-horiz_en.png" />
+  <img width="300" src="/assets/images/chanse.png" />
+  <img width="150" src="/assets/images/landscape_new+norface_nov2018.png" />
 </p>

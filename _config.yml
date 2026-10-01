@@ -74,9 +74,9 @@ plugins:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/chance-micro-project"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/micro-sr"

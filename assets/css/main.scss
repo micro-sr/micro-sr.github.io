@@ -1,0 +1,12 @@
+---
+
+---
+
+@charset "utf-8";
+
+$max-width: 1700px;                  // 整页最大宽度，默认 1280px
+$right-sidebar-width-narrow: 170px;  // 屏宽 ≥ 64em 时右侧栏宽度，默认 200px
+$right-sidebar-width: 220px;         // 屏宽 ≥ 80em 时右侧栏宽度，默认 300px
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
